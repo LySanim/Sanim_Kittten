@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #435334;
+    padding: 0px;
+
+}
+.logo{
+    text-align: left;
+    margin-left: 50px;
+}
+.btnLogin{
+ 
+    height: 30px;
+    width: 70px;
+}
+.nav-item:hover{
+    color: #FAF1E4;
+}
