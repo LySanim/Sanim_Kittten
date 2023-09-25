@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sanim_Kittten/static/css/main.2d4bdf9e.css",
+    "main.js": "/Sanim_Kittten/static/js/main.987d1252.js",
+    "index.html": "/Sanim_Kittten/index.html",
+    "main.2d4bdf9e.css.map": "/Sanim_Kittten/static/css/main.2d4bdf9e.css.map",
+    "main.987d1252.js.map": "/Sanim_Kittten/static/js/main.987d1252.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4bdf9e.css",
+    "static/js/main.987d1252.js"
+  ]
+}
